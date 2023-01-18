@@ -1,53 +1,6 @@
-p.desplazado {
-	background-color: aquamarine;
-	border: red 1px solid;
-	position: relative;
-	left: 50px;
-}
 
+.orange{
 
-p.p1 {
-    background-color: lightblue;
-    height: 150px;
-    width: 150px;
-    z-index: 1;
-  }
-  
-  p.p2 {
-    background-color: #DDDDDD;
-    height: 150px;
-    right: 500px;
-    position: relative;
-    top: -50px;
-    width: 150px;
-  }
-Footer
-
-p.p3 {  height: 150px;
-  left: 100px;
-  position: relative;
-  top: 100px;
-  width: 110px;
-  
-}
-p.p4 {
-  height: 150px;
-  left: 900px;
-  position: relative;
-  top: 0px;
-  width: -90px;
-}
-p.p5 {
-  height: 150px;
-  left: 1500px;
-  position: relative;
-  top: 0px;
-  width: 150px;
-
-}
-
-.red{
-
-  color: rgb(255, 51, 0);
-
+  color: rgb(235, 105, 30);
+  background-color: #333333;
 }
